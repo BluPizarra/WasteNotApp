@@ -1,9 +1,9 @@
 # Waste Not: Food Inventory & Expiry Tracker
 
-[![Java](https://img.shields.io/badge/Java-8%20%7C%2011%20%7C%2017%20%7C%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Application](https://img.shields.io/badge/App-Console%20CLI-4E5D6C?style=for-the-badge)](https://github.com/BluPizarra/WasteNotApp)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Academic](https://img.shields.io/badge/APC-SOCIT%20INPROLA-B3665B?style=for-the-badge)](https://www.apc.edu.ph/)
+[![Java](https://img.shields.io/badge/Java-8%20%7C%2011%20%7C%2017%20%7C%2021-404258?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Application](https://img.shields.io/badge/App-Console%20CLI-474E68?style=for-the-badge)](https://github.com/BluPizarra/WasteNotApp)
+[![License: MIT](https://img.shields.io/badge/License-MIT-50577A?style=for-the-badge)](LICENSE)
+[![Academic](https://img.shields.io/badge/APC-SOCIT%20INPROLA-6B728E?style=for-the-badge)](https://www.apc.edu.ph/)
 
 **Waste Not** is a console-based Java application built to manage household food inventories, keep track of expiration dates, organize food storage, and prevent unnecessary food waste.
 
